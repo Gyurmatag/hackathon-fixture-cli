@@ -1,0 +1,10 @@
+{
+  "name": "hackathon-fixture-cli",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "bin": { "word-count": "./cli.js" },
+  "scripts": {
+    "test": "node --test"
+  }
+}
